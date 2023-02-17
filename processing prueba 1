@@ -1,0 +1,8 @@
+void setup() {
+size(200, 100);
+}
+void draw() {
+text ("Hello world", 10, 10);
+}
+
+
